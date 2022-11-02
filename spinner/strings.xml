@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <string-array name="month_list">
+        <item>Neymar</item>
+        <item>Messi</item>
+        <item>Ronaldo</item>
+        <item>Vinicius</item>
+        <item>Silva</item>
+
+    </string-array>
+</resources>
